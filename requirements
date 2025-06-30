@@ -1,0 +1,9 @@
+##Requirements
+Libaries used: 
+argparse
+os
+re
+csv
+pandas 
+matplotlib.pyplot 
+plotly.express 
